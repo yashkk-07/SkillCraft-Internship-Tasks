@@ -1,0 +1,30 @@
+# Task 04: Hand Gesture Recognition System
+
+## Objective
+To develop a hand gesture recognition model capable of identifying and classifying different hand gestures from image or video data for human-computer interaction.
+
+## Dataset
+- Hand Gesture Dataset
+- Contains images of various hand gestures
+- Dataset not included in repository due to size constraints
+
+## Approach
+1. Load and preprocess gesture images
+2. Resize and normalize images
+3. Extract relevant features
+4. Train a machine learning / deep learning model
+5. Evaluate gesture classification accuracy
+6. Test the model on unseen gesture data
+
+## Tools & Technologies
+- Python
+- OpenCV
+- NumPy
+- scikit-learn / TensorFlow / Keras
+- Google Colab
+
+## Outcome
+The system successfully recognizes and classifies different hand gestures, enabling gesture-based interaction.
+
+## Internship Context
+This task was completed as **Task 04** under the SkillCraft Technology Internship Program.
