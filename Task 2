@@ -1,0 +1,31 @@
+# Task 02: Customer Segmentation using K-Means Clustering
+
+## Objective
+To group customers of a retail store into different segments based on their purchase history using the K-Means clustering algorithm.
+
+## Dataset
+- Mall Customer Dataset
+- Contains customer-related features such as spending behavior
+- Dataset not included due to size limitations
+
+## Approach
+1. Load and analyze the dataset
+2. Perform data preprocessing
+3. Select relevant features for clustering
+4. Determine optimal number of clusters using the Elbow Method
+5. Apply K-Means clustering
+6. Visualize customer segments
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib / Seaborn
+- Google Colab
+
+## Outcome
+Customers were successfully grouped into meaningful clusters based on purchasing behavior.
+
+## Internship Context
+This task was completed as **Task 02** under the SkillCraft Technology Internship Program.
