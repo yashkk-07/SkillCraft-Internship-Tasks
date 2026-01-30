@@ -1,0 +1,32 @@
+# Task 03: Cats vs Dogs Image Classification using SVM
+
+## Objective
+To implement a Support Vector Machine (SVM) model to classify images of cats and dogs.
+
+## Dataset
+- Cats and Dogs Image Dataset
+- 50 cat images and 50 dog images
+- Images uploaded directly into Google Colab
+- Dataset not included in repository due to size constraints
+
+## Approach
+1. Upload images into Google Colab
+2. Resize and preprocess images
+3. Convert images to grayscale
+4. Extract features using Histogram of Oriented Gradients (HOG)
+5. Split dataset into training and testing sets
+6. Train an SVM classifier
+7. Evaluate model performance
+
+## Tools & Technologies
+- Python
+- OpenCV
+- scikit-image
+- scikit-learn
+- Google Colab
+
+## Outcome
+The SVM model successfully classifies cat and dog images based on extracted features.
+
+## Internship Context
+This task was completed as **Task 03** under the SkillCraft Technology Internship Program.
